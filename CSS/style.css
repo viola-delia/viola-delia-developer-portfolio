@@ -1,0 +1,31 @@
+
+body {
+    color: #393A3F;
+    font-family: Helvetica, sans-serif;
+}
+
+
+img {
+max-width: 900px;
+
+}
+
+h1 {
+    font-size: 85px;
+    margin-top: 55px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 200;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.header {
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
