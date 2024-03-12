@@ -294,7 +294,7 @@ max-width: 80%;
 }
 
 
-.weather-project, .time-zone-project {
+.weather-project, .time-zone-project, .world-clock-project, .ai-project {
     
     border-radius: 10px;
         box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
@@ -303,8 +303,18 @@ max-width: 80%;
         padding-left: 60px;
         padding-right: 60px;
         background-color: var(--branding-color);
-    margin-top: 80px;
-    margin-bottom: 80px;
-
-
+        margin-top: 50px;
+    max-width: 40%;
+    width: 40%;
+text-align: center;
 }
+
+
+
+.work-container {
+    display: block;
+}
+p {
+    margin-top: 25px;
+}
+
