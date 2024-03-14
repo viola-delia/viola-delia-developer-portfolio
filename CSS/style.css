@@ -341,3 +341,51 @@ p {
             text-align: center;
         }
 }
+
+.contact-page-content {
+   
+    margin: 50px auto;
+    max-width: 80%;
+}
+
+.contact-page-content h1 {
+    display: block;
+    margin-top: 200px;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.contact-page-content h2 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.back-button {
+        padding: 30px;
+        border-radius: 15px;
+        background-color: var(--secondary-color);
+        border: none;
+        color: #393A3F;
+        text-decoration: none;
+        font-size: large;
+        font-weight: 700;
+        width: 20%;
+      
+        margin-top: 15px;
+        box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    }
+
+    .back-button:hover {
+        {
+                opacity: 0.7;
+                cursor: pointer;
+            }
+    }
+
+        @media (max-width: 767px) {
+            .back-button {
+                display: block;
+                max-width: 100%;
+            }
+
+        }
