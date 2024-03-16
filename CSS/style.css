@@ -25,9 +25,11 @@ padding: 0px 0px;
 }
 
 .work-h1 {
-    font-size: 65px;
-        margin-top: 55px;
+    font-size: 55px;
+        margin-top: 120px;
+        margin-bottom: 40px;
         text-align: center;
+        display: block;
 }
 
 h2 {
@@ -46,7 +48,7 @@ h3 {
 .header {
 
     background-color: var(--branding-color);
-    padding-top: 30px;
+    padding-top: 80px;
         padding-bottom: 50px;
         padding-left: 0px;
         padding-right: 0px;
@@ -147,7 +149,7 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 60px;
     background-color: var(--branding-color);
     margin: 0 auto;
-margin-top: 50px;
+margin-top: 100px;
     max-width: 87%;
     opacity: 0.9;
     border-radius: 15px;
