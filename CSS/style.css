@@ -389,3 +389,22 @@ p {
             }
 
         }
+
+footer .email-link {
+    margin-top: 150px;
+    margin-bottom: 40px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #393A3F;
+    font-size: 36px;
+}
+
+
+footer .email-link:hover {
+    color: var(--secondary-color);
+}
+               footer .footer-icons a {
+            margin: 0 30px;
+                } 
+            
